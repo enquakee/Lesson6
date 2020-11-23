@@ -1,0 +1,8 @@
+.header {
+    grid-area: header;
+    display: flex;
+    justify-content: space-between;
+    min-height: 124px;
+    align-items: center;
+}
+

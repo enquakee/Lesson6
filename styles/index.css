@@ -1,0 +1,14 @@
+@import "./normalize.css";
+@import "./header.css";
+@import "./font.css";
+
+.mainWrapper {
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas:
+    ". header .";
+    grid-template-columns: 92px 1fr 92px;
+    
+}
