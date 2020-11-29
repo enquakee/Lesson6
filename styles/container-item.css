@@ -1,0 +1,10 @@
+.courses__containerItem {
+    display: flex;
+    flex-direction: column;
+    min-width: 376px;
+    min-height: 376.8px;
+    align-items: flex-start;
+    padding: 0;
+    border-radius: 12px;
+    background: url(/img/container-item-image1.jpg);
+}

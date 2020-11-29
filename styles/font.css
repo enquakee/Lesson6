@@ -7,11 +7,9 @@
 @font-face {
     font-family: "OSLight";
     src: url(/font/OpenSans-Light.ttf);
-    font-weight: bold;
 }
 
 @font-face {
-    font-family: "OSRegular";
+    font-family: "OSReg";
     src: url(/font/OpenSans-Regular.ttf);
-    font-weight: bold;
 }
