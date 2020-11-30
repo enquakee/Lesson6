@@ -5,6 +5,7 @@
 @import "./common.css";
 @import "./hero.css";
 @import "./courses.css";
+@import "./container-item.css";
 
 
 .mainWrapper {
